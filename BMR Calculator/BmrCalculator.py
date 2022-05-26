@@ -10,4 +10,3 @@ if get_unit == "metric":
     user_age = input ("Enter your age here: ")
     user_height = input("Enter your height in inches ")
     user_weight = input ("Enter your weight in pounds ")
-    
